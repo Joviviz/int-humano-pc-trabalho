@@ -24,4 +24,4 @@
 * 22252263 - João Pedro Issmael Vieira
 * 22252072 - Gustavo Correia
 * 22250210 - Wesley
-* 22250923
+* 22250923 - Lucas
